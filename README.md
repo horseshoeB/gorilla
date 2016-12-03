@@ -1,2 +1,2 @@
 # gorilla
-study Linux
+study command (Linux, Git, Node.js ...)
